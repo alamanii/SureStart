@@ -7,3 +7,9 @@ During this program, I aim to improve my knowledge about AI, better understand a
 
 
 **Day 2: (09/02/21) :**  *Introduction To Machine Learning (Ml) And Scikit-Learn*
+--Supervised & Unsupervised Learning :
+We use unsupervised machine learning algorithms in order to find patterns in our datasets and to discover the different relationships therein.
+As for supervised learning, we have labeled data and what we learn from that labeled training data, help us to predict outcomes for unforeseen data.
+
+--Scikit-Learn:
+Scikit-Learn is built on top of many python librairies such as ( numpy , pandas , matplotlib ... ) , Scikit Learn is only focused on Machine Learning so it is not concerned with the loading, handling, manipulating, and visualising of data.Other packages like pandas , numpy are the best to deal with that kind of tasks.

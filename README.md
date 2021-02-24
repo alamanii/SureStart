@@ -14,3 +14,14 @@ As for supervised learning, we have labeled data and what we learn from that lab
 
 --Scikit-Learn:
 Scikit-Learn is built on top of many python librairies such as ( numpy , pandas , matplotlib ... ) , Scikit Learn is only focused on Machine Learning so it is not concerned with the loading, handling, manipulating, and visualising of data.Other packages like pandas , numpy are the best to deal with that kind of tasks.
+
+
+**Day 3: (10/02/21) :**  *Introduction To ML And Tensorflow*
+
+--Tensors : are multidimensional data arrays .
+
+
+
+**Day 4: (11/02/21) :**  *What Is Deep Learning?*
+
+**Day 5: (12/02/21) :**  *What Are Neural Networks (NN)?*

@@ -19,9 +19,43 @@ Scikit-Learn is built on top of many python librairies such as ( numpy , pandas 
 **Day 3: (10/02/21) :**  *Introduction To ML And Tensorflow*
 
 --Tensors : are multidimensional data arrays .
+--Computations ran in the TensorFlow programs is that the result doesn't actually get calculated.
 
 
 
 **Day 4: (11/02/21) :**  *What Is Deep Learning?*
 
+
 **Day 5: (12/02/21) :**  *What Are Neural Networks (NN)?*
+
+
+**Day 8: (11/02/21) :**  *Introduction To Convolutional Neural Networks (Cnns)*
+
+**Day 9: (11/02/21) :**  *Algorithmic Bias And Data Sets*
+
+**Day 10: (11/02/21) :**  *Neural Network Layers*
+
+**Day 11: (11/02/21) :**  *Neural Network Practice With Mnist Digits*
+
+**Day 12: (11/02/21) :**  *Image Classification And Ml*
+
+**Day 15: (11/02/21) :**  *What Is Deep Learning?*
+
+**Day 16: (11/02/21) :**  *What Is Deep Learning?*
+
+**Day 17: (11/02/21) :**  *What Is Deep Learning?*
+
+**Day 18: (11/02/21) :**  *What Is Deep Learning?*
+
+**Day 19: (11/02/21) :**  *Upsampling And Autoencoders*
+
+**Day 22: (11/02/21) :**  *Natural Language Processing (Nlp)*
+
+**Day 23: (11/02/21) :**  *Computer Vision (Cv)*
+
+**Day 24: (11/02/21) :**  *Affective Computing*
+
+**Day 25: (11/02/21) :**  *Get Ready For The Makeathon*
+
+**Day 26: (11/02/21) :**  *Makeathon Begins On March 5!*
+

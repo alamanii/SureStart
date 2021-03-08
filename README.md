@@ -83,6 +83,8 @@ else:
 
 **Day 17: (11/02/21) :**  *Loss Functions*
 
+Learn more about Loss functions and their use andd tuning .
+
 
 **Day 18: (11/02/21) :**  *Data Overfitting And Regularization*
 

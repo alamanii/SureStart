@@ -24,20 +24,34 @@ Scikit-Learn is built on top of many python librairies such as ( numpy , pandas 
 
 
 **Day 4: (11/02/21) :**  *What Is Deep Learning?*
+Learn more about Deep Learning concepts and when it will be used and the difference with ML.
 
 
 **Day 5: (12/02/21) :**  *What Are Neural Networks (NN)?*
+Learn about the different types of Neural networks (FF- CNN -RNN) 
+Learn about the components and concepts of Neural Networks.
 
 
 **Day 8: (11/02/21) :**  *Introduction To Convolutional Neural Networks (Cnns)*
+Getting familiar with CNN using the MNIST dataset .
 
 **Day 9: (11/02/21) :**  *Algorithmic Bias And Data Sets*
+--1. How do you think Machine Learning or AI concepts were utilized in the design of this game? 
+Collecting historical data , training the model and getting results that can fit with our expectations . 
+
+--2. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model
+Many companies used similair models in their recrutement process nowadays . In my opinion to make the model more fair , we need to fix the dataset , as the whole workflow depends on it .
 
 **Day 10: (11/02/21) :**  *Neural Network Layers*
+Understand the different types of layers of a neural networks and their roles.
+
+-- CNNs are more specialized (image classification mostly )  and efficient  in some cases than the Fully Connected Neural Networks . They are 
 
 **Day 11: (11/02/21) :**  *Neural Network Practice With Mnist Digits*
+Playing with the MNIST digits dataset using CNN .
 
 **Day 12: (11/02/21) :**  *Image Classification And Ml*
+Image Classification and the famous Cats vs dogs binary classification .
 
 **Day 15: (11/02/21) :**  *What Is Deep Learning?*
 

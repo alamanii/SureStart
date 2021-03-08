@@ -60,23 +60,47 @@ Playing with the MNIST digits dataset using CNN .
 
 Image Classification and the famous Cats vs dogs binary classification .
 
-**Day 15: (11/02/21) :**  *What Is Deep Learning?*
+**Day 15: (11/02/21) :**  *Ethics-Driven ML Practice*
 
-**Day 16: (11/02/21) :**  *What Is Deep Learning?*
+Ethics and their impact on the ML & DL applications .
 
-**Day 17: (11/02/21) :**  *What Is Deep Learning?*
+Gender classification notebook :
+(https://www.kaggle.com/thanaphatj/gender-classification-of-facial-images-cnn)
 
-**Day 18: (11/02/21) :**  *What Is Deep Learning?*
+
+**Day 16: (11/02/21) :**  *Activation Functions*
+
+-The rectified linear activation function (ReLU) is a  simple linear function that will output the input directly if it is positive, otherwise, it will output zero. It has become the default activation function for many types of neural networks because a model that uses it is easier to train and often achieves better performance.
+One of the benefits of the relu  is the reduced likelihood of the gradient to vanish and also more computationally efficient to compute than other activation functions .
+
+"""
+if input > 0:
+	return input
+else:
+	return 0
+"""
+
+
+**Day 17: (11/02/21) :**  *Loss Functions*
+
+
+**Day 18: (11/02/21) :**  *Data Overfitting And Regularization*
+
 
 **Day 19: (11/02/21) :**  *Upsampling And Autoencoders*
 
-**Day 22: (11/02/21) :**  *Natural Language Processing (Nlp)*
 
-**Day 23: (11/02/21) :**  *Computer Vision (Cv)*
+**Day 22: (11/02/21) :**  *Natural Language Processing (NLP)*
+
+
+**Day 23: (11/02/21) :**  *Computer Vision (CV)*
+
 
 **Day 24: (11/02/21) :**  *Affective Computing*
 
+
 **Day 25: (11/02/21) :**  *Get Ready For The Makeathon*
+
 
 **Day 26: (11/02/21) :**  *Makeathon Begins On March 5!*
 
